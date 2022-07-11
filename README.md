@@ -1,2 +1,3 @@
 # Huawei_software_elite_challenge
-2022_Huawei_software_elite_challenge
+2022华为软件精英挑战赛任务书
+用于官网下载要参赛选手的账号登陆，为了直接可以看到，本人将任务书放到这里了。
